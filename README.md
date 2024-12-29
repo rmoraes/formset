@@ -56,4 +56,7 @@ O sistema é composto por três partes principais:
 ---
 
 ## 📬 Contato
-Se tiver dúvidas ou sugestões, sinta-se à vontade entrar em contato pelo email: ramoraess@gmail.com
+Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:  
+- **Email**: [ramoraess@gmail.com](mailto:ramoraess@gmail.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/ricardo-a-moraes](https://www.linkedin.com/in/ricardo-a-moraes)
+
